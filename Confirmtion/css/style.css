@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    padding: 0;
+}
+.container{
+    margin: 30%;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -5px;
+}
+img{
+    margin-left: 20%;
+}
+
+h2{
+    margin-left: 20%;
+}
+input{
+    border-left: 30px;
+}
+#transaction{
+    width:47%;
+}
+#mail{
+    width:60%;
+}
